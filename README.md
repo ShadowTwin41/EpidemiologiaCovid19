@@ -1,5 +1,7 @@
 ﻿# Epidemiologia
-Dois notebooks onde:
+ ## Dados do Covid-19 Brasil e Mundo
+
+
 
 	1.O Primeiro apenas verifica que se consegue utilizar as ferramentas do QGIS no python; 
 [qgis.ipynb](Andre/qgis.ipynb)
