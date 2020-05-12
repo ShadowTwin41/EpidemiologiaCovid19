@@ -41,6 +41,8 @@ Para se realizar este mapa foi necessário dois layers distintos, em que um corr
 
 [Dataset Utilizado](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/cases-cities.csv)
 
+[GeoPackage](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/brasil.gpkg)
+
 ## Mundo - Casos Confirmados
 Neste mapa foram utlizados dois layers distintos, um com o mapa do mundo sob um outro com os casos confirmados de Covid-19 a nível mundial. Para este processamento utilizou-se o software Qgis com o qual se definiu todos os labels e guardado num package [world.gpkg](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/world.gpkg)
 
@@ -49,10 +51,31 @@ Neste mapa foram utlizados dois layers distintos, um com o mapa do mundo sob um 
 
 [Dataset Utilizado](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/cases_country.csv)
 
+[GeoPackage](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/world.gpkg)
 
-# ----------ESTE README está em construção------------
+
 
 ## Animação com casos confirmados 
 Com o software Qgis foi possivel criar um video que presenta o aumento de casos confirmados ao longo do tempo.
 
 [Watch the video](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/bandicam%202020-05-12%2017-02-45-285.mp4)
+
+# ----------ESTE README está em construção------------
+
+# Dados estatísticos
+
+Com os datasets recolhidos também foram criados alguns gráficos de forma a ser mais visivel os números de casos confirmados. Utilizaram-se as bibliotecas "pandas" "matplotlib" e "numpy" para se conseguir visualizar os dados.
+
+## Brasil - Número de casos confirmados
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/numberCases.jpg)
+
+### Brasil - Número de casos confirmados - pie
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie.jpg)
+
+## Mundo - Maiores valores de infetados a nível mundial
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/worldnumberCases.jpg)
+
+### Mundo - Número de casos confirmados
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/world_number_cases.jpg)
+
+
