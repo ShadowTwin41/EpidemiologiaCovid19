@@ -1,6 +1,8 @@
 ﻿# Epidemiologia 
  # Dados do Covid-19 Brasil e Mundo
  
+
+ 
 Os dados são descarregados de diferentes locais para tentar disponibilizar a informação da forma mais completa e diversificada.
 Os processos de criação dos Mapas e Gráficos é completamente automática se primeiro se fizer os devidos descarregamentos. [getDataBrazil.ipynb](EpidemiologiaCovid19/Andre/Covid-19Brazil/getDataBrazil.ipynb)
 Este ficherio também guarda todos os dados numa base de dados PostGre.
@@ -46,7 +48,10 @@ Neste mapa foram utlizados dois layers distintos, um com o mapa do mundo sob um 
 
 [Dataset Utilizado](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/Tables/cases_country.csv)
 
-
+[![Watch the video](EpidemiologiaCovid19/Andre/Covid-19Brazil/fig/Captura de Ecrã (76).png)](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/bandicam%202020-05-12%2017-02-45-285.mp4)
 # ----------ESTE README está em construção------------
 
+## Animação com casos confirmados 
+Com o software Qgis foi possivel criar um video que presenta o aumento de casos confirmados ao longo do tempo.
 
+[![Watch the video](EpidemiologiaCovid19/Andre/Covid-19Brazil/fig/Captura de Ecrã (76).png)](EpidemiologiaCovid19/Andre/Covid-19Brazil/fig/bandicam 2020-05-12 17-02-45-285.mp4)
