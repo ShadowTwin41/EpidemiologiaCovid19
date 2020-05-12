@@ -55,9 +55,4 @@ Neste mapa foram utlizados dois layers distintos, um com o mapa do mundo sob um 
 ## Animação com casos confirmados 
 Com o software Qgis foi possivel criar um video que presenta o aumento de casos confirmados ao longo do tempo.
 
-![Casos Mundo](/Andre/Covid-19Brazil/fig/Captura de Ecrã (76).png)
-
-![Casos por Municipio](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/Captura de Ecrã (76).png)
-
-
 [Watch the video](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/bandicam%202020-05-12%2017-02-45-285.mp4)
