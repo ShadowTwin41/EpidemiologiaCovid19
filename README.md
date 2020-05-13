@@ -66,6 +66,8 @@ Com o software Qgis foi possivel criar um video que presenta o aumento de casos 
 
 Com os datasets recolhidos também foram criados alguns gráficos de forma a ser mais visivel os números de casos confirmados. Utilizaram-se as bibliotecas "pandas" "matplotlib" e "numpy" para se conseguir visualizar os dados.
 
+De seguida é apresentado um gráfico de barras em que está ordenado o número de casos em cada estado. A barra do total não apresenta o valor máximo.
+
 ## Brasil - Número de casos confirmados
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/numberCases.jpg)
 
@@ -73,12 +75,14 @@ Com os datasets recolhidos também foram criados alguns gráficos de forma a ser
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pieBrasil.jpg)
 
 ## Mundo - Maiores valores de infetados a nível mundial
+Gráfico com os países com mais casos confirmados, para se comparar com o Brasil.
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/worldnumberCases.jpg)
 
 ### Mundo - Número de casos confirmados - pie
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie.jpg)
 
 ### Mundo - Número de casos confirmados
+De seguida é apresentado um gráfico de barras em que é apresentado o número de casos confirmados por dia. Verifica-se um aumento exponêncial.
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/world_number_cases.jpg)
 
 
