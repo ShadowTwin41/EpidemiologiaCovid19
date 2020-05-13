@@ -70,10 +70,13 @@ Com os datasets recolhidos também foram criados alguns gráficos de forma a ser
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/numberCases.jpg)
 
 ### Brasil - Número de casos confirmados - pie
-![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie.jpg)
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pieBrasil.jpg)
 
 ## Mundo - Maiores valores de infetados a nível mundial
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/worldnumberCases.jpg)
+
+### Mundo - Número de casos confirmados - pie
+![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie.jpg)
 
 ### Mundo - Número de casos confirmados
 ![Casos Mundo](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/world_number_cases.jpg)
