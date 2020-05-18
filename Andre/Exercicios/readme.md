@@ -18,3 +18,5 @@ De seguida procedeu-se ao carregamento do .csv e do mapa de portugal continental
 
 No final, colocou-se pontos no mapa e definiu-se o tamanho dependendo do valor correspondente no dataset .csv.
 ![Casos por milhão de pessoas](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Exercicios/fig.PNG)
+
+Verifica-se que o mapa criado está muito idêntico ao da DGS, logo, o facto de o norte ter mais casos que, por exemplo, Lisboa não está relacionada com a quantidade de população.
