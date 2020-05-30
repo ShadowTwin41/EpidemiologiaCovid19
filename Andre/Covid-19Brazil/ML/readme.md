@@ -22,5 +22,5 @@ Previsão do número de infetados
 
 Aplicado para o mês de junho, neste caso
 
-![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model3-2.png)
+![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Modelo3-2.png)
 
