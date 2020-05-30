@@ -72,7 +72,6 @@ Com o software Qgis foi possivel criar um video que presenta o aumento de casos 
 
 [Watch the video](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/bandicam%202020-05-12%2017-02-45-285.mp4)
 
-# ----------ESTE README está em construção-----------
 
 # Dados estatísticos
 
