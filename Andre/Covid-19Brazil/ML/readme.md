@@ -10,13 +10,17 @@ Este modelo baseia-se no estudo de incerteza na tentativa de realizar previsões
 ![Model1](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model1.png)
 
 
-### [Modelo2](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) 
+### [Modelo2](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) - Covid-19 infection in Italy. Mathematical models and predictions (Aplicado ao Brasil).
 
+Previsão do número de mortos 
 ![Model2Deaths](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model2-Deaths.png)
 
+Previsão do número de infetados
 ![Model2](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model2.png)
 
-### [Modelo3](https://medium.com/analytics-vidhya/how-to-predict-when-the-covid-19-pandemic-will-stop-in-your-country-with-python-d6fbb2425a9f) - COVID-19 Analysis: Uncertainties
+### [Modelo3](https://medium.com/analytics-vidhya/how-to-predict-when-the-covid-19-pandemic-will-stop-in-your-country-with-python-d6fbb2425a9f) - Time Series Forecasting with Parametric Curve Fitting
 
-![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model3.png)
+Aplicado para o mês de junho, neste caso
+
+![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model3-2.png)
 
