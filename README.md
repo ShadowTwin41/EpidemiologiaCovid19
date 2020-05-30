@@ -18,6 +18,18 @@ Os dados para construção dos Mapas em Qgis (PyQgis) foram obtidos:
 https://www.ibge.gov.br/geociencias/downloads-geociencias.html - Brasil
 https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ - Mundo
 
+## Atalhos
+[Estudo do Brasil](Andre/Covid-19Brazil/)
+- [Imagens](Andre/Covid-19Brazil/fig)
+- [Dados](Andre/Covid-19Brazil/Tables)
+- [Modelos Matemáticos](Andre/Covid-19Brazil/ML)
+
+[Teste do PyQgis](Andre/qgis.ipynb)
+
+[Teste de SQL](Andre/SQL)
+
+[Exercícios Propostos](Andre/Exercicos)
+
 ## Brasil - Casos confirmado por Estado
 
 Estes mapas podem ser criado a partir do software Qgis ou recorrendo ao codigo publicado [mapsBrasil.ipynb](EpidemiologiaCovid19/Andre/Covid-19Brazil/mapsBrasil.ipynb) que utiliza biblitecas PyQgis. Para se conseguir utilizar tem-se que instalar todos os esses packages e configurar corretamente, existem vários tutoriais pela internet. Para testar se tudo está bem configurado sugere-se correr o ficheiro [qgis.ipynb](EpidemiologiaCovid19/Andre/qgis.ipynb).
