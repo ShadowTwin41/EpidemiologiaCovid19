@@ -9,3 +9,14 @@ Este modelo baseia-se no estudo de incerteza na tentativa de realizar previsões
 
 ![Model1](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model1.png)
 
+
+### [Modelo2](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) 
+
+![Model2Deaths](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model2-Deaths.png)
+
+![Model2](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model2.png)
+
+### [Modelo3](https://medium.com/analytics-vidhya/how-to-predict-when-the-covid-19-pandemic-will-stop-in-your-country-with-python-d6fbb2425a9f) - COVID-19 Analysis: Uncertainties
+
+![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model3.png)
+
