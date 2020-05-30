@@ -24,3 +24,19 @@ onde afirmam que o nº de casos pode ser até 7 vezes maior que os resultados of
 
 ### Número de Infetados
 ![brasilCases](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/brasilCases.png)
+
+
+## Dois notebooks explorando dados estatísticos:
+
+[statsBrazil-deaths.ipynb](statsBrazil-deaths.ipynb) - Dados relativos ao nº de mortos
+
+![WolrdDeaths](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie-deaths.jpg)
+
+[statsBrazil.ipynb](statsBrazil.ipynb) - Dados relativos ao nº de infetados
+
+![WolrdCases](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/fig/pie.jpg)
+
+## Uma diretoria onde existe a tentativa de suposição de futuros valores:
+[Modelos Matemáticos](ML) 
+
+![Previsao](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Model1.png)
