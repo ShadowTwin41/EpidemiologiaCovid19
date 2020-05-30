@@ -20,7 +20,7 @@ Previsão do número de infetados
 
 ### [Modelo3](https://medium.com/analytics-vidhya/how-to-predict-when-the-covid-19-pandemic-will-stop-in-your-country-with-python-d6fbb2425a9f) - Time Series Forecasting with Parametric Curve Fitting
 
-Aplicado para o mês de junho, neste caso
+Aplicado para o mês de junho, neste caso - A verde o modelo matemático (curve fiting), a preto os números reais e a vermelho a previsão para o proximo mês
 
 ![Model3](https://github.com/ShadowTwin41/EpidemiologiaCovid19/blob/master/Andre/Covid-19Brazil/ML/Modelo3-2.png)
 
