@@ -30,7 +30,7 @@ https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-coun
 
 [Teste de SQL](Andre/SQL)
 
-[Exercícios Propostos](Andre/Exercicos)
+[Exercícios Propostos](Andre/Exercicios)
 
 ## Brasil - Casos confirmado por Estado
 
