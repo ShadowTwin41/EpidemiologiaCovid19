@@ -12,10 +12,12 @@ Qualquer melhoramento ou deteção de erros é sempre bem vinda!
 ## Origem dos dados
 
 https://github.com/wcota/covid19br - Informação relativa ao número de infetados, recuperados, entre outros dados sobre o Brasil.
+
 https://github.com/CSSEGISandData/COVID-19 - Informação relativa aos dados em todo o Mundo.
 
 Os dados para construção dos Mapas em Qgis (PyQgis) foram obtidos:
 https://www.ibge.gov.br/geociencias/downloads-geociencias.html - Brasil
+
 https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ - Mundo
 
 ## Atalhos
